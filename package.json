@@ -1,0 +1,30 @@
+{
+  "name": "@makechtec/cohua-frontend",
+  "version": "1.0.0",
+  "description": "javascript implementation for cohua",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakechTec/cohua-frontend.git"
+  },
+  "author": "makechtec",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/MakechTec/cohua-frontend/issues"
+  },
+  "homepage": "https://github.com/MakechTec/cohua-frontend#readme",
+  "devDependencies": {
+    "@makechtec/tezcatl": "^1.5.6"
+  },
+  "dependencies": {
+    "@makechtec/router-translator": "^1.0.2",
+    "axios": "^0.27.2"
+  }
+}
